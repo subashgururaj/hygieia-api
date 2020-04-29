@@ -16,12 +16,11 @@ pids
 *.pid
 *.seed
 *.iml
-/target
+
 /.idea
 
 # Distributable artifacts
-target
+
 
 # Specific project files
-/bin/
-application.properties
+
